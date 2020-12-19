@@ -1,6 +1,6 @@
 import Head from "next/head";
-import { NavBar } from "./components/NavBar/index";
-import { Section } from "./components/Section/index";
+import { NavBar } from "../components/NavBar/index";
+import { Section } from "../components/Section/index";
 import { Layout } from "../styles/GlobalVariables";
 export default function Home() {
   return (
